@@ -103,3 +103,5 @@ In order to complete this assignment, you must do the following:
 ### Grading
 
 This assignment will be graded via peer assessment.
+
+Refer to cacheMatrix.R file for both the functions (makeCacheMatrix and cacheSolve)
